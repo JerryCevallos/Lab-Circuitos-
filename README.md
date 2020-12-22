@@ -1,5 +1,6 @@
 # Lab-Circuitos-
 Informes y videos del laboratorio de circuitos
+
 Objetivos
 Generales: 
 •	Explicar y demostrar teórica y practicamos las leyes de Kirchhoff
@@ -9,10 +10,12 @@ Específicos:
 •	Utilizar correctamente los instrumentos de medición tomando en cuenta las recomendaciones explicadas en clase 
 •	Mostrar la relación de que existe entre la teoría y la práctica de cada una de las leyes de Kirchhoff 
 •	Entender la funcionalidad de cada uno de los componentes (resistencias, protoboars, multímetro, etc)
-Requisitos previos  
+
+Requisitos previos
 •	Análisis correcto de circuitos 
 •	Verificación de la teoría para la aplicación en la practica 
 •	Tener un conocimiento previo de la utilización de la instrumentación 
+
 Marco Teórico 
 Leyes de Kirchhoff
 Son dos y junto con la ley de Ohm, definen el conjunto de ecuaciones que permiten resolver un circuito eléctrico más o menos complejo. Ambas leyes se basan en principios superiores como el principio de conservación de la carga eléctrica y el principio de conservación de la energía. Previamente al desarrollo de ambas leyes, será necesario definir algunos conceptos previos sobre lo que se llama topología de los circuitos.
