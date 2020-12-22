@@ -45,7 +45,8 @@ En el nodo A, se deberá cumplir, en la medida que la carga debe conservarse que
 decir:	N ij  0, donde la letra sigma mayúscula representa a la suma algebraica de todas las corrientes desde la primera hasta la n-ésima. Insisto en que deben ser tomadas con su signo. Por lo tanto, esta primera ley permite, conociendo todas las corrientes menos una, determinar aquélla.
 
 [](https://github.com/JerryCevallos/Lab-Circuitos-/issues/1#issue-773038380)
-https://github.com/JerryCevallos/Lab-Circuitos-/issues/1#issue-773038380
+https://github.com/JerryCevallos/Lab-Circuitos-/issues/1#issue-773038380  
+
 
 Segunda ley de Kirchhoff o ley de las mallas o de las tensiones.
  
