@@ -32,7 +32,7 @@ Primera ley de Kirchhoff o ley de los nodos o de las corrientes
 En el nodo A, se deberá cumplir, en la medida que la carga debe conservarse que la carga por unidad de tiempo, que llega a él debe ser igual a la carga por unidad de tiempo que sale del mismo nodo. En términos matemáticos escribiremos  i1  i2  i3  i4  0 donde la suma es algebraica, es decir, considerando su signo, positivo si ingre- san y negativo si salen. Desde un punto de vista más formal podemos introducir la simbología de sumatoria, es 
 decir:	N ij  0, donde la letra sigma mayúscula representa a la suma algebraica de todas las corrientes desde la primera hasta la n-ésima. Insisto en que deben ser tomadas con su signo. Por lo tanto, esta primera ley permite, conociendo todas las corrientes menos una, determinar aquélla.
 
-
+Ley 1.jpg
 
 Segunda ley de Kirchhoff o ley de las mallas o de las tensiones.
  
@@ -40,7 +40,10 @@ Como las diferencias de potencial están asociadas a energías, como vimos cuand
 Una vez elegido el sentido de giro, consideraremos positiva a toda tensión que aparezca sobre un componente, fuente o resistencia, si con el recorrido elegido, pasamos de un potencial más bajo a otro más elevado. La consideraremos negativa si se da el caso contrario.
 Analicemos el caso planteado en el dibujo, en el cual se ve un trozo de circuito eléctrico, dentro de una red eléctrica más grande. Antes de continuar, conviene observar que siempre, por donde ingresa la corriente en un elemento pasivo (resistencia), es el polo positivo y por donde sale es el negativo. Al revés sucede con un elemento activo o fuente, por donde sale es el positivo, ya que se requiere un mayor potencial para que al corriente salga de la batería. Lo anterior se observa en el diagrama siguiente:
 
-Como la fuente y la resistencia están en paralelo, deben conservar la polaridad.
+Ley 2.png
+
+Como la fuente y la resistencia están en paralelo, deben conservar la polaridad
+
 
 Dicho esto, podemos encarar el análisis de la malla anterior.
 Supongamos partir de V1, con el sentido de recorrido adoptado C, pasamos de un punto de menor potencial a otro de mayor potencial, es decir, de - a +, por lo que deberá ser tomada como positiva. Siguiendo con el recorrido, pasamos ahora de un punto de mayor potencial sobre R2 a otro de menor potencial, es decir de + a -, por lo cual deberá ser adoptada como 
