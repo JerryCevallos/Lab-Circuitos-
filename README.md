@@ -122,7 +122,7 @@ Recomendaciones
 
 
 Bibliografia 
-http://www.adrosa.net/PDF/Electrotecnia/Leyes%20de%20Kirchhoff.pdf
 
-https://www.lifeder.com/leyes-kirchhoff/
+Adrian Rosa A,2015, Leyes de Kirchhoff : http://www.adrosa.net/PDF/Electrotecnia/Leyes%20de%20Kirchhoff.pdf
+Lifeder, 2020, Leyes de Kirchhoff: Primera y Segunda Ley (Con Ejemplos): https://www.lifeder.com/leyes-kirchhoff/
 
