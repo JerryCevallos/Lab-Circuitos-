@@ -3,10 +3,12 @@ Informes y videos del laboratorio de circuitos
 
 Objetivos
 Generales: 
+
 •	Explicar y demostrar teórica y practicamos las leyes de Kirchhoff
 •	Comprender e experimentar el uso de los diferentes instrumentos de medición 
 •	Mostrar prácticamente la función del circuito en un simulador 
 Específicos:
+
 •	Utilizar correctamente los instrumentos de medición tomando en cuenta las recomendaciones explicadas en clase 
 •	Mostrar la relación de que existe entre la teoría y la práctica de cada una de las leyes de Kirchhoff 
 •	Entender la funcionalidad de cada uno de los componentes (resistencias, protoboars, multímetro, etc)
@@ -19,6 +21,7 @@ Requisitos previos
 Marco Teórico 
 Leyes de Kirchhoff
 Son dos y junto con la ley de Ohm, definen el conjunto de ecuaciones que permiten resolver un circuito eléctrico más o menos complejo. Ambas leyes se basan en principios superiores como el principio de conservación de la carga eléctrica y el principio de conservación de la energía. Previamente al desarrollo de ambas leyes, será necesario definir algunos conceptos previos sobre lo que se llama topología de los circuitos.
+
 •	Circuito o red eléctrica: Es todo conjunto de componentes dispuestos de distinta forma y por los cuales puede establecerse una corriente eléctrica
 •	Concepto de nodo: Es todo punto de un circuito o red eléctrica donde confluyen dos o más corrientes. Si las corrientes son de tres en adelante se lo suele llamar nodo principal
 •	Concepto de rama: Es todo componente de un circuito eléctrico, que se extiende entre dos nodos.
@@ -28,6 +31,8 @@ Primera ley de Kirchhoff o ley de los nodos o de las corrientes
 
 En el nodo A, se deberá cumplir, en la medida que la carga debe conservarse que la carga por unidad de tiempo, que llega a él debe ser igual a la carga por unidad de tiempo que sale del mismo nodo. En términos matemáticos escribiremos  i1  i2  i3  i4  0 donde la suma es algebraica, es decir, considerando su signo, positivo si ingre- san y negativo si salen. Desde un punto de vista más formal podemos introducir la simbología de sumatoria, es 
 decir:	N ij  0, donde la letra sigma mayúscula representa a la suma algebraica de todas las corrientes desde la primera hasta la n-ésima. Insisto en que deben ser tomadas con su signo. Por lo tanto, esta primera ley permite, conociendo todas las corrientes menos una, determinar aquélla.
+
+
 
 Segunda ley de Kirchhoff o ley de las mallas o de las tensiones.
  
