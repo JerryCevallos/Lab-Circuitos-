@@ -53,7 +53,7 @@ Como las diferencias de potencial están asociadas a energías, como vimos cuand
 Una vez elegido el sentido de giro, consideraremos positiva a toda tensión que aparezca sobre un componente, fuente o resistencia, si con el recorrido elegido, pasamos de un potencial más bajo a otro más elevado. La consideraremos negativa si se da el caso contrario.
 Analicemos el caso planteado en el dibujo, en el cual se ve un trozo de circuito eléctrico, dentro de una red eléctrica más grande. Antes de continuar, conviene observar que siempre, por donde ingresa la corriente en un elemento pasivo (resistencia), es el polo positivo y por donde sale es el negativo. Al revés sucede con un elemento activo o fuente, por donde sale es el positivo, ya que se requiere un mayor potencial para que al corriente salga de la batería. Lo anterior se observa en el diagrama siguiente:
 
-https://github.com/JerryCevallos/Lab-Circuitos-/issues/2#issue-773048254
+![Ley 2](https://user-images.githubusercontent.com/75337022/102907174-a6fc9200-4443-11eb-80fa-03e8041a97f5.png) 
 
 Como la fuente y la resistencia están en paralelo, deben conservar la polaridad
 
@@ -67,7 +67,7 @@ subíndice “j”varía entre 1 y N.
 
 Material o equipo requerido
 
-https://github.com/JerryCevallos/Lab-Circuitos-/issues/3#issue-773049321
+![Material](https://user-images.githubusercontent.com/75337022/102907299-da3f2100-4443-11eb-9736-be6072bcf91e.png) 
 
 Diagramas
 
