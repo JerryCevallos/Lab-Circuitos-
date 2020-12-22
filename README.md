@@ -71,7 +71,7 @@ Material o equipo requerido
 
 Diagramas
 
-https://github.com/JerryCevallos/Lab-Circuitos-/issues/4#issue-773053880
+![Diagrama](https://user-images.githubusercontent.com/75337022/102907895-ad3f3e00-4444-11eb-89f5-78b8574cf2ea.png) 
 
  
 Procedimiento 
@@ -87,22 +87,19 @@ Procedimiento
 
 •	Con los valores obtenidos analizamos cada uno de los valores obtenidos y los valores medidos con lo cual realizamos una comparación 
 
-https://github.com/JerryCevallos/Lab-Circuitos-/issues/5#issue-773054447
+![Diagrama_1](https://user-images.githubusercontent.com/75337022/102907971-c9db7600-4444-11eb-94ce-76cafd58084e.png) 
 
 
 Tabulación de datos
 
-https://github.com/JerryCevallos/Lab-Circuitos-/issues/6#issue-773055560
-
-https://github.com/JerryCevallos/Lab-Circuitos-/issues/7#issue-773055873
-
-https://github.com/JerryCevallos/Lab-Circuitos-/issues/8#issue-773056268
+![Tabla 1](https://user-images.githubusercontent.com/75337022/102908105-fbecd800-4444-11eb-90b9-5d701d33bf6e.png) 
+![Tabla 2](https://user-images.githubusercontent.com/75337022/102908146-0a3af400-4445-11eb-8f7e-5339c2236476.png) 
+![tabla 3](https://user-images.githubusercontent.com/75337022/102908192-1de65a80-4445-11eb-8a87-1418b1bf9b46.png) 
 
 Cálculos
 
-https://github.com/JerryCevallos/Lab-Circuitos-/issues/9#issue-773056555
-
-https://github.com/JerryCevallos/Lab-Circuitos-/issues/10#issue-773056853
+![calculos](https://user-images.githubusercontent.com/75337022/102908243-2ccd0d00-4445-11eb-9b18-8f28da56af3b.jpg) 
+![calculos de error](https://user-images.githubusercontent.com/75337022/102908284-39e9fc00-4445-11eb-84f7-f4bb6afea926.jpg) 
 
 
 
