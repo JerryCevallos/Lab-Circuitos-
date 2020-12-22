@@ -44,7 +44,7 @@ Primera ley de Kirchhoff o ley de los nodos o de las corrientes
 En el nodo A, se deberá cumplir, en la medida que la carga debe conservarse que la carga por unidad de tiempo, que llega a él debe ser igual a la carga por unidad de tiempo que sale del mismo nodo. En términos matemáticos escribiremos  i1  i2  i3  i4  0 donde la suma es algebraica, es decir, considerando su signo, positivo si ingre- san y negativo si salen. Desde un punto de vista más formal podemos introducir la simbología de sumatoria, es 
 decir:	N ij  0, donde la letra sigma mayúscula representa a la suma algebraica de todas las corrientes desde la primera hasta la n-ésima. Insisto en que deben ser tomadas con su signo. Por lo tanto, esta primera ley permite, conociendo todas las corrientes menos una, determinar aquélla.
 
-h![Ley 1](https://user-images.githubusercontent.com/75337022/102905811-afec6400-4441-11eb-87ea-299f6c8689f1
+![Ley 1](https://user-images.githubusercontent.com/75337022/102905811-afec6400-4441-11eb-87ea-299f6c8689f1.jpg) 
 
 
 Segunda ley de Kirchhoff o ley de las mallas o de las tensiones.
